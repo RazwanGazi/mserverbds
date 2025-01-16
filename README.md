@@ -1,0 +1,2 @@
+# mserverbds
+BDSforUIinterface
